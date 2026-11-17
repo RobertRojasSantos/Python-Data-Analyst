@@ -1,4 +1,4 @@
-# Python-Data-Analyst
+# Python-Data-Analytics
 
 # 📊 Análisis de Estrategias de Precios y Demanda Comercial con Python y Machine Learning
 
